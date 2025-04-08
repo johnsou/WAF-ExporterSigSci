@@ -37,9 +37,11 @@ CORP_NAME=your-corp-name
 ## ⚙️ Run the scripts:
 
 # Create virtual environment
+```
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 ## ⚙️ Extract rules + export JSON
 ```
