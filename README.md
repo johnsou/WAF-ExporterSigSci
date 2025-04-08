@@ -1,7 +1,7 @@
 # WAF-ExporterSigSci
 WAF Rule Exporter &amp; Dashboard Metabase
 
-Extract, enrich, and visualize Signal Sciences (Fastly NGWAF) WAF rules using Python + SQLite + Metabase.
+Extract, enrich, and visualize Signal Sciences WAF rules using Python + SQLite + Metabase.
 
 ---
 
@@ -19,7 +19,7 @@ Extract, enrich, and visualize Signal Sciences (Fastly NGWAF) WAF rules using Py
 
 - Python 3.8+
 - Docker (for Metabase)
-- Signal Sciences (Fastly NGWAF) API token
+- Signal Sciences API token
 
 ---
 
