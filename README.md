@@ -8,7 +8,7 @@ Extract, enrich, and visualize Signal Sciences WAF rules using Python + SQLite +
 ## 🚀 Features
 
 - ✅ Extract all WAF rules (custom + signal) from every site in your corp
-- ✅ Export to CSV and JSON
+- ✅ Export to JSON
 - ✅ Enrich rules with agent count + IP tag data
 - ✅ Convert to SQLite for easy dashboarding
 - ✅ Run Metabase locally via Docker for instant rule visualization
